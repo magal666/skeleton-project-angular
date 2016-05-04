@@ -1,6 +1,10 @@
 # Skeleton Project Angular
 This is one basic skeleton for creating AngularJS project, utilizing service and promisses AngularJS
 
+<br>
+<br>
+<br>
+
 ## How to install
 
 For install this skeleton, first clone this project with the code:
@@ -15,15 +19,25 @@ this command will install the libraries: __AngularJS__ and __Twitter Bootstrap__
 
 in the HTML file add the calls from files, __.css__ and __.js__:
 
+<br>
+
 > Inject bootstrap:
 
     <link href="vendor/bootstrap/dist/css/bootstrap.min.css">
     <link href="vendor/bootstrap/dist/css/bootstrap-theme.css">
     <script src="vendor/bootstrap/dist/js/bootstrap.min.js"></script>
 
+<br>
+
 > Inject angularjs:
 
     <script src="vendor/angularjs/angular.min.js"></script>
+
+<br>
+<br>
+<br>
+
+##Structure
 
 The structure this project is:
 
