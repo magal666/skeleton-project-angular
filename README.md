@@ -12,3 +12,15 @@ and enter the project folder and use the command:
     * bower install
 
 this command will install the libraries: AngularJS and Twitter Bootstrap
+
+The structure this project is:
+
+    skeleton-project-angular
+    |___css
+    |___js
+        |___config
+        |___controller
+        |___lib
+        |___service
+    |___vendor
+    |___view
