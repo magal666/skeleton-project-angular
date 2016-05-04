@@ -11,7 +11,18 @@ and enter the project folder and use the command:
 
     bower install
 
-this command will install the libraries: AngularJS and Twitter Bootstrap
+this command will install the libraries: __AngularJS__ and __Twitter Bootstrap__
+
+in the HTML file add the calls from files, __.css__ and __.js__:
+
+    -- inject bootstrap
+
+    <link href="vendor/bootstrap/dist/css/bootstrap.min.css">
+    <link href="vendor/bootstrap/dist/css/bootstrap-theme.css">
+    <script src="vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    -- inject angularjs
+    <script src="vendor/angularjs/angular.min.js"></script>
 
 The structure this project is:
 
