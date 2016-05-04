@@ -1,0 +1,22 @@
+{
+  "name": "skeleton-project-angular",
+  "description": "This is one basic skeleton for creating AngularJS project, utilizing service and promisses AngularJS",
+  "main": "index.php",
+  "keywords": [
+    "angularjs",
+    "php",
+    "skeleton-project"
+  ],
+  "authors": [
+    "Vinicius da Silva (magal666)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/magal666/skeleton-project-angular",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
