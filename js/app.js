@@ -1,0 +1,1 @@
+skeletonMagal666 = angular.module('skeletonMagal666', []);
