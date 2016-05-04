@@ -1,7 +1,7 @@
 {
   "name": "skeleton-project-angular",
   "description": "This is one basic skeleton for creating AngularJS project, utilizing service and promisses AngularJS",
-  "main": "index.php",
+  "main": "index.html",
   "keywords": [
     "angularjs",
     "php",
@@ -18,5 +18,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies":{
+    "bootstrap": "~3.3.6",
+    "angularjs": "~1.5.5"
+  }
 }
