@@ -21,7 +21,7 @@ in the HTML file add the calls from files, __.css__ and __.js__:
 
 <br>
 
-> Inject bootstrap:
+> Injecting bootstrap:
 
     <link href="vendor/bootstrap/dist/css/bootstrap.min.css">
     <link href="vendor/bootstrap/dist/css/bootstrap-theme.css">
@@ -29,7 +29,7 @@ in the HTML file add the calls from files, __.css__ and __.js__:
 
 <br>
 
-> Inject angularjs:
+> Injecting angularjs:
 
     <script src="vendor/angularjs/angular.min.js"></script>
 
