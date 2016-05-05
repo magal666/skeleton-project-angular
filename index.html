@@ -1,20 +1,39 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="skeletonMagal666">
 <head>
     <meta charset="UTF-8">
-    <title>Magal666 skeleton project angular</title>
+    <title>Magal666 Skeleton Project Angular</title>
 
-    <!--inject css bootstrap-->
+    <!--injecting css bootstrap-->
     <link href="vendor/bootstrap/dist/css/bootstrap.min.css">
     <link href="vendor/bootstrap/dist/css/bootstrap-theme.css">
 
-    <!--inject js bootstrap-->
+    <!--injecting jquery-->
+    <script src="vendor/jquery/dist/jquery.min.js"></script>
+
+    <!--injecting js bootstrap-->
     <script src="vendor/bootstrap/dist/js/bootstrap.min.js"></script>
 
-    <!--inject js angular-->
+    <!--injecting js angularjs-->
     <script src="vendor/angularjs/angular.min.js"></script>
-</head>
-<body>
 
+    <!--injecting module angular-->
+    <script src="js/app.js"></script>
+    <script src="js/config/skeletonMagal666Config.js"></script>
+    <script src="js/service/skeletonMagal666Service.js"></script>
+    <script src="js/controller/skeletonMagal666Controller.js"></script>
+    <script src="js/lib/skeletonMagal666Directive.js"></script>
+
+</head>
+<body ng-controller="skeletonMagal666Controller">
+    <div class="container">
+        <div class="row">
+            <h1>Skeleton Project Angular</h1>
+        </div>
+        <br />
+        <div class="row">
+            <h4>This is a exemple for index.html</h4>
+        </div>
+    </div>
 </body>
 </html>
